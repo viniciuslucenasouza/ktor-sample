@@ -4,7 +4,7 @@ This sample project is to understand how to implement an data process engine.
 
 I am using kTor framework, but it is not needed.
 
-I followed this page: [Geeting started with kTor Server](https://ktor.io/docs/server-create-a-new-project.html)
+I followed this page: [Getting started with kTor Server](https://ktor.io/docs/server-create-a-new-project.html)
 
 This example does not include fetching data and sending data to a sink.  
 It is just a simple example of how to process data.
